@@ -16,7 +16,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-x-pem-key.svg">
+   sodipodi:docname="application-pkcs12.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -61,7 +61,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6544054"
-     inkscape:cx="-10.531341"
+     inkscape:cx="-12.182838"
      inkscape:cy="9.1747807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-3"
@@ -71,9 +71,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -141,7 +141,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,11 +178,11 @@
              y="527.98877"
              ry="1" />
           <g
-             style="fill:#0c4439;fill-opacity:1;stroke:#1f2a47;stroke-opacity:1"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
              transform="matrix(0.02319405,0,0,0.02319405,445.19838,537.10416)"
              id="g3">
             <path
-               style="fill:#60090c;fill-opacity:1"
+               style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
                inkscape:connector-curvature="0"
                id="path5-1"
                d="M 353.812,0 C 263.925,0 191.25,72.675 191.25,162.562 c 0,19.125 3.825,38.25 9.562,57.375 L 0,420.75 l 0,95.625 95.625,0 0,-57.375 57.375,0 0,-57.375 57.375,0 86.062,-86.062 c 17.213,5.737 36.338,9.562 57.375,9.562 89.888,0 162.562,-72.675 162.562,-162.562 C 516.374,72.676 443.7,0 353.812,0 Z m 47.813,172.125 c -32.513,0 -57.375,-24.862 -57.375,-57.375 0,-32.513 24.862,-57.375 57.375,-57.375 32.513,0 57.375,24.862 57.375,57.375 0,32.513 -24.862,57.375 -57.375,57.375 z" />

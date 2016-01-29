@@ -68,7 +68,7 @@
        y2="516.92767" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4361"
+       xlink:href="#linearGradient4793"
        id="linearGradient4346"
        gradientUnits="userSpaceOnUse"
        x1="401.17508"
@@ -77,7 +77,7 @@
        y2="516.92767" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4361"
+       xlink:href="#linearGradient4793"
        id="linearGradient4348"
        gradientUnits="userSpaceOnUse"
        x1="401.17508"
@@ -138,6 +138,18 @@
        y1="549.91388"
        x2="401.17508"
        y2="516.92767" />
+    <linearGradient
+       id="linearGradient4793"
+       inkscape:collect="always">
+      <stop
+         id="stop4795"
+         offset="0"
+         style="stop-color:#4da70e;stop-opacity:1" />
+      <stop
+         id="stop4797"
+         offset="1"
+         style="stop-color:#9ded46;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -147,7 +159,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="20.632484"
+     inkscape:cx="-13.573807"
      inkscape:cy="22.194526"
      inkscape:document-units="px"
      inkscape:current-layer="g4326"
@@ -157,9 +169,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -257,7 +269,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -294,7 +306,7 @@
                  id="path3377"
                  style="opacity:1;fill:url(#linearGradient4341);fill-opacity:1;stroke:url(#linearGradient4343);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
               <circle
-                 style="opacity:1;fill:url(#linearGradient4346);fill-opacity:1;stroke:url(#linearGradient4348);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 style="opacity:1;fill:url(#linearGradient4346);fill-opacity:1.0;stroke:url(#linearGradient4348);stroke-width:1.38475251;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                  id="circle4174"
                  cx="400.57144"
                  cy="531.79797"

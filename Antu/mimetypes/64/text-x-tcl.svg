@@ -55,7 +55,7 @@
        x2="-75.259552"
        y2="2.3564887"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0749904,0,0,1.0292896,56.688954,-0.01528455)" />
+       gradientTransform="matrix(1.0749904,0,0,1.0292896,56.688954,0.1174662)" />
     <linearGradient
        id="linearGradient4422-5">
       <stop
@@ -78,14 +78,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="687"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="5.2716364"
-     inkscape:cx="-13.585432"
+     inkscape:cx="-11.520245"
      inkscape:cy="32.669309"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4186"
      inkscape:snap-bbox="true"
@@ -167,60 +167,20 @@
        id="g4177"
        transform="translate(0,0.26550102)">
       <rect
-         style="opacity:1;fill:#6f350c;fill-opacity:1;stroke:none;stroke-width:0.185;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4162"
-         width="44"
-         height="7.6992903"
-         x="-46.391766"
-         y="54.477486"
-         ry="2.5" />
-      <rect
          style="opacity:1;fill:url(#linearGradient4182);fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4174"
          width="44"
-         height="52.831711"
+         height="60.265499"
          x="-46.391766"
-         y="1.6457753"
+         y="1.7785261"
          ry="2.5" />
-      <rect
-         style="opacity:1;fill:#6f350c;fill-opacity:1;stroke:none;stroke-width:0.185;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4184"
-         width="44"
-         height="7.9118414"
-         x="-46.391766"
-         y="51.264462"
-         ry="0" />
-      <g
-         transform="matrix(0.81954967,0,0,0.81954967,-4.0342878,10.721773)"
-         id="text4161"
-         style="font-style:normal;font-weight:normal;font-size:9.36996746px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-        <g
-           id="text4269"
-           style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-          <path
-             id="path4176"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
-             d="m -27.955324,59.862681 q -0.77,0 -1.18,-0.41 -0.4,-0.41 -0.4,-1.16 l 0,-2.57 -0.86,0 0,-0.84 0.86,0 0,-1.5 0.92,0 0,1.5 1.2,0 0,0.84 -1.2,0 0,2.5 q 0,0.8 0.66,0.8 0.25,0 0.42,-0.08 l 0.32,0.79 q -0.3,0.13 -0.74,0.13 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path4178"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
-             d="m -24.358762,59.942681 q -1.1,0 -1.81,-0.74 -0.71,-0.75 -0.71,-1.87 0,-1.12 0.71,-1.86 0.71,-0.75 1.81,-0.75 0.82,0 1.36,0.4 0.54,0.4 0.79,1.01 l -0.84,0.35 q -0.38,-0.92 -1.37,-0.92 -0.61,0 -1.08,0.5 -0.46,0.5 -0.46,1.27 0,0.77 0.46,1.27 0.47,0.5 1.08,0.5 1.03,0 1.42,-0.92 l 0.82,0.35 q -0.25,0.6 -0.81,1.01 -0.55,0.4 -1.37,0.4 z"
-             inkscape:connector-curvature="0" />
-          <path
-             id="path4180"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';fill:#ffffff;fill-opacity:1"
-             d="m -20.463918,59.782681 -0.92,0 0,-7.16 0.92,0 0,7.16 z"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
       <g
          style="fill:#ffffff;fill-opacity:1"
-         transform="matrix(0.79488932,0,0,0.79488932,-372.03251,-403.05459)"
+         transform="matrix(0.86715198,0,0,0.86715198,-403.52713,-438.20494)"
          id="layer1-2"
          inkscape:label="Capa 1"
-         inkscape:transform-center-x="4.3443576"
-         inkscape:transform-center-y="-7.5454581">
+         inkscape:transform-center-x="4.7392981"
+         inkscape:transform-center-y="-8.2314147">
         <g
            style="fill:#ffffff;fill-opacity:1"
            transform="translate(0.41988239,0.03484499)"

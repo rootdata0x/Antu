@@ -47,24 +47,24 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4422-4"
+       xlink:href="#linearGradient4422-4-3"
        id="linearGradient4182"
-       x1="-74.929466"
-       y1="52.199436"
+       x1="-75.054245"
+       y1="59.888153"
        x2="-75.259552"
        y2="2.3564887"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0749904,0,0,1.0292896,56.688954,-0.01528455)" />
     <linearGradient
-       id="linearGradient4422-4">
+       id="linearGradient4422-4-3">
       <stop
-         style="stop-color:#d1d7df;stop-opacity:1"
+         id="stop4424-3-0"
          offset="0"
-         id="stop4424-3" />
+         style="stop-color:#d1d7df;stop-opacity:1" />
       <stop
-         style="stop-color:#e0e5e7;stop-opacity:1"
+         id="stop4426-4-7"
          offset="1"
-         id="stop4426-4" />
+         style="stop-color:#eaf0f2;stop-opacity:1" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -77,16 +77,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="642"
+     inkscape:window-height="687"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="3.7276099"
-     inkscape:cx="-17.058351"
-     inkscape:cy="14.37891"
+     inkscape:zoom="7.4552198"
+     inkscape:cx="17.585316"
+     inkscape:cy="31.096419"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4186"
+     inkscape:current-layer="svg2"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:object-nodes="true"
@@ -160,31 +160,15 @@
      transform="translate(56.391766,-0.17677665)">
     <g
        id="g4239"
-       transform="translate(0,0.26550102)">
-      <rect
-         style="opacity:1;fill:#3d434a;fill-opacity:1;stroke:none;stroke-width:0.185;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4162"
-         width="44"
-         height="7.6992903"
-         x="-46.391766"
-         y="54.477486"
-         ry="2.5" />
+       transform="translate(-4.0551758e-7,0.26550031)">
       <rect
          style="opacity:1;fill:url(#linearGradient4182);fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4174"
          width="44"
-         height="52.831711"
+         height="60.531002"
          x="-46.391766"
          y="1.6457753"
          ry="2.5" />
-      <rect
-         style="opacity:1;fill:#3d434a;fill-opacity:1;stroke:none;stroke-width:0.185;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4184"
-         width="44"
-         height="7.9118414"
-         x="-46.391766"
-         y="51.264462"
-         ry="0" />
     </g>
     <g
        inkscape:transform-center-y="-9.4924686"
@@ -196,6 +180,16 @@
          id="layer1-3-65"
          inkscape:label="Capa 1"
          transform="translate(0.41988239,0.03484499)" />
+    </g>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:70px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.43495932;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4222"
+       transform="matrix(0.47355959,0,0,0.47355959,-0.56660105,5.9645856)">
+      <path
+         d="m -49.702735,30.01141 c -28.35,0 -28.77,50.68 0.07,50.68 27.02,0 26.67,-50.68 -0.07,-50.68 z m 0.07,9.45 c 14.49,0 14.7,32.06 -0.07,32.06 -16.31,0 -16.1,-32.06 0.07,-32.06 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Multicolore;-inkscape-font-specification:'Multicolore Bold';fill:#000000;fill-opacity:0.43495932"
+         id="path4227"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

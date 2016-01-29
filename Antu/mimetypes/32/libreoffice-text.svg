@@ -17,7 +17,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="x-office-document.svg">
+   sodipodi:docname="libreoffice-text.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -62,7 +62,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6544054"
-     inkscape:cx="5.3221247"
+     inkscape:cx="-14.824119"
      inkscape:cy="19.02127"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -72,9 +72,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-height="687"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -432,7 +432,7 @@
       </g>
     </g>
     <path
-       style="display:inline;opacity:1;fill:#0b3969;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
        sodipodi:nodetypes="cccccccsscccc"
        id="path4-0"
        d="m 394.57143,535.12515 0,2.67285 2.67285,0 6.75067,-6.75067 -2.67285,-2.67285 z m 11.78797,-6.4337 c 0.28271,-0.2827 0.28271,-0.72818 0,-1.01088 l -1.67053,-1.67054 c -0.28271,-0.2827 -0.72818,-0.2827 -1.01089,0 l -1.39639,1.40496 2.67285,2.67286 z"
